@@ -22,5 +22,6 @@ int main() {
        cout << "No same numbers." << endl;
    }
 
+   system("pause");
    return 0;
 }
